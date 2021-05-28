@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab4Jurele</string>
+    <string name="tv_status_text">Please choose weather you want to see latest ECB exchange rates or latest TOP10 crypto prices. All data is parsing live from ECB and Coinmarketcap.</string>
+    <string name="btn_get_crypto">Crypto prices</string>
+    <string name="btn_get_currency">Exchange Rates</string>
+</resources>
